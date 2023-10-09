@@ -1,0 +1,41 @@
+{
+  "name": "study_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byeonggil/study_html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byeonggil/study_html/issues"
+  },
+  "homepage": "https://github.com/byeonggil/study_html#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-changed": "^4.0.3",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-pretty-html": "^2.0.10",
+    "gulp-sass": "^5.1.0",
+    "gulp-replace": "^1.1.4",
+    "sass": "^1.54.5"
+  },
+  "dependencies": {
+    "gulp-remove-empty-lines": "^0.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "jquery": "^3.6.1",
+    "node-sass": "^7.0.1"
+  }
+}
